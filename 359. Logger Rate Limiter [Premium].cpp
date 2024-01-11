@@ -1,4 +1,5 @@
 // Problem Link: https://leetcode.com/problems/logger-rate-limiter/
+// Easy
 
 class Logger {
 private:
