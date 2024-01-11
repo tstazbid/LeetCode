@@ -32,6 +32,8 @@ Algorithm:
 
 Time Complexity: O(N * N)
 Space Complexity: O(N)
+
+Problem Level: Medium
 */
 
 class Solution {
