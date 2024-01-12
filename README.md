@@ -1,1 +1,1 @@
-# LeetCode Practice Problems (Premium)
+# Leetcode Tutorial with Solutions
